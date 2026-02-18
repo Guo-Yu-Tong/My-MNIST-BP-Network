@@ -4,7 +4,7 @@
 ![Library](https://img.shields.io/badge/library-OpenCV-green)
 ![Dataset](https://img.shields.io/badge/dataset-MNIST-orange)
 ![Accuracy](https://img.shields.io/badge/accuracy-97.39%25-brightgreen)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
 A complete handwritten digit recognition system implemented in pure C++ using a fully-connected Backpropagation Neural Network trained on the MNIST dataset.
 
@@ -244,6 +244,7 @@ This project is for:
 
 - Educational use
 - Research use
+
 
 
 
