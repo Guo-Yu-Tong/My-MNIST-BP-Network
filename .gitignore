@@ -1,0 +1,83 @@
+# =========================
+# Visual Studio files
+# =========================
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.sln
+
+# =========================
+# Build folders
+# =========================
+build/
+Build/
+x64/
+x86/
+Debug/
+Release/
+cmake-build-*/
+out/
+
+# =========================
+# CMake files
+# =========================
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# =========================
+# Compiled binaries
+# =========================
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.out
+*.app
+
+# =========================
+# Model files (optional)
+# =========================
+*.bin
+
+# =========================
+# Temporary files
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# IDE files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS generated
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Python cache (optional, safe)
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Misc
+# =========================
+*.zip
+*.tar
+*.gz
